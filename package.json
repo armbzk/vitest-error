@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vitest": "^2.1.7"
+  },
+  "scripts": {
+    "test": "npx vitest run"
+  }
+}
